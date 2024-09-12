@@ -14,3 +14,6 @@ Installed on Tomcat Server in Dev and Production mode
 
 ![Diagram](https://github.com/HJHitesh/SocketMachineJ2EEApp/blob/master/Quantity_validation_lab2.png)
 
+![Diagram](https://github.com/HJHitesh/SocketMachineJ2EEApp/blob/master/Form_lab2.png)
+
+
