@@ -8,4 +8,4 @@ Intalled on Tomcat Server in Dev and Production mode
 
 ## Images
 
-https://github.com/HJHitesh/SocketMachineJ2EEApp/blob/master/Response_output_lab2.png
+![Diagram]https://github.com/HJHitesh/SocketMachineJ2EEApp/blob/master/Response_output_lab2.png
