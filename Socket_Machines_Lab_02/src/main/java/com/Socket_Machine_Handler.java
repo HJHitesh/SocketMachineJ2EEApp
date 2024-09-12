@@ -83,7 +83,7 @@ public class Socket_Machine_Handler extends HttpServlet {
         }
         
 
-        // Process the form data (for now, just send it back in the response)
+        // Process the form data 
         response.setContentType("text/html");
         response.getWriter().println("<h1>Order Summary</h1>");
         response.getWriter().println("<p>Socket Type: " + socketType + "</p>");
